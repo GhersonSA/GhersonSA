@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="https://ghersonsa.com/">GhersonSA</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://ghersonsa.com/" target="_blank">GhersonSA</a> 👋</h1>
 </div>
 <img src="https://ghersonsa.com/assets/og-HNaHvWiX.webp">
 
