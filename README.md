@@ -1,4 +1,7 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://ghersonsa.com/">GhersonSA</a> 👋</h1>
+</div>
+<img src="https://ghersonsa.com/assets/og-HNaHvWiX.webp">
 
 <!--
 **GhersonSA/GhersonSA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
