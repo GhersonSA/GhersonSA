@@ -3,7 +3,7 @@
 </div>
 <p>
   Bienvenido a mi rincón de GitHub ✨  
-  Soy un desarrollador web con pasión por crear soluciones que conectan la **tecnología con la vida cotidiana**. Me encanta transformar ideas en experiencias digitales funcionales y atractivas.
+  Soy un desarrollador web con pasión por crear soluciones que conectan la <b>tecnología con la vida cotidiana</b>. Me encanta transformar ideas en experiencias digitales funcionales y atractivas.
 
   🔗 **¿Te gustaría ver lo que he creado?**  
   Visita mi portafolio y descubre mis proyectos, habilidades y lo que me mueve como desarrollador!
