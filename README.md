@@ -1,6 +1,17 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://ghersonsa.com/" target="_blank">GhersonSA</a> 👋</h1>
 </div>
+<p>
+  Bienvenido a mi rincón de GitHub ✨  
+  Soy un desarrollador web con pasión por crear soluciones que conectan la **tecnología con la vida cotidiana**. Me encanta transformar ideas en experiencias digitales funcionales y atractivas.
+
+  🔗 **¿Te gustaría ver lo que he creado?**  
+  Visita mi portafolio y descubre mis proyectos, habilidades y lo que me mueve como desarrollador!
+
+  👉 [Mi Portafolio:](https://ghersonsa.com/) 🌐
+
+¡Gracias por pasarte por aquí! 🚀
+</p>
 <img src="https://ghersonsa.com/assets/og-HNaHvWiX.webp">
 
 <!--
