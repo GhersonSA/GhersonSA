@@ -3,7 +3,7 @@
 </div>
 <p>
   Bienvenido a mi rincón de GitHub ✨  
-  Soy un desarrollador web con pasión por crear soluciones que conectan la <b>tecnología con la vida cotidiana</b>. Me encanta transformar ideas en experiencias digitales funcionales y atractivas.
+  Creador de CoPiloto Carpooling App y desarrollador web con pasión por crear soluciones que conectan la <b>tecnología con la vida cotidiana</b>. Me encanta transformar ideas en experiencias digitales funcionales y atractivas.
 
   ---
 
@@ -18,6 +18,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" height="40" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt"PostgreSQL" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" />
