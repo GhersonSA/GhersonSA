@@ -3,7 +3,7 @@
 </div>
 <p>
   Bienvenido a mi rincón de GitHub ✨  
-  Creador de< b>CoPiloto Carpooling App y React Web Developer</b> con pasión por crear soluciones que conectan la <b>tecnología con la vida cotidiana</b>. Me encanta transformar ideas en experiencias digitales funcionales y atractivas.
+  Creador de <b>CoPiloto Carpooling App y React Web Developer</b> con pasión por crear soluciones que conectan la <b>tecnología con la vida cotidiana</b>. Me encanta transformar ideas en experiencias digitales funcionales y atractivas.
 
   ---
 
