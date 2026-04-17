@@ -9,8 +9,6 @@ Creador de **CoPiloto Carpooling App y React Web Developer** con pasión por cre
 
 ### 🚀 Mi stack principal
 
-### 🚀 Mi stack principal
-
 <table>
   <tr>
     <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="html5" /></td>
