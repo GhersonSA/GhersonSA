@@ -9,7 +9,7 @@ Creador de **CoPiloto Carpooling App y React Web Developer** con pasión por cre
 
 ### 🚀 Mi stack principal
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,nodejs,nestjs,express,postgres,mysql,docker,mongodb,reactnative,git,github,gitlab)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,nodejs,nestjs,express,postgres,mysql,docker,mongodb,git,github,gitlab)](https://skillicons.dev)
 
 ---
 
