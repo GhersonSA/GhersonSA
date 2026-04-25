@@ -3,7 +3,7 @@
 </div>
 
 Bienvenido a mi rincón de GitHub ✨  
-**Ingeniero de Software especializado en desarrollo Web & Mobile (React / React Native).** Impulsor de **CoPiloto Carpooling App**, un ecosistema digital de carpooling que integra arquitecturas modernas con un diseño de alta fidelidad. Enfocado en la optimización de procesos, el código limpio y la entrega de experiencias digitales que transforman ideas en herramientas de uso diario.
+**Ingeniero de Software especializado en desarrollo Web & Mobile (React / React Native).** Creador de **CoPiloto Carpooling App**, un ecosistema digital de carpooling que integra arquitecturas modernas con un diseño de alta fidelidad. Enfocado en la optimización de procesos, el código limpio y la entrega de experiencias digitales que transforman ideas en herramientas de uso diario.
 
 ---
 
