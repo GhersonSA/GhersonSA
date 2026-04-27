@@ -11,6 +11,8 @@ Bienvenido a mi rincón de GitHub ✨
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,nodejs,nestjs,express,postgres,mysql,docker,mongodb,git,github,gitlab)](https://skillicons.dev)
 
+### 🎯 ¿Por qué contratarme?
+
 ---
 
 🔗 **¿Te gustaría ver lo que he creado?** Visita mi portafolio y descubre mis proyectos, habilidades y lo que me mueve como desarrollador!
