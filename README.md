@@ -13,6 +13,11 @@ Bienvenido a mi rincón de GitHub ✨
 
 ### 🎯 ¿Por qué contratarme?
 
+* **Visión de Producto:** No solo escribo código; transformo ideas complejas en herramientas funcionales y escalables, como lo demostré con el ecosistema de **CoPiloto**.
+* **Desarrollo Multiplataforma Eficiente:** Gracias a mi dominio de **React y React Native**, puedo unificar la experiencia de usuario en Web y Mobile, optimizando tiempos de desarrollo.
+* **Código Limpio y Mantenible:** Mi enfoque en arquitecturas modernas asegura que el software sea fácil de escalar y mantener a largo plazo, reduciendo la deuda técnica.
+* **Atención al Detalle (UI/UX):** Implemento diseños de alta fidelidad con una precisión técnica que garantiza experiencias digitales fluidas y atractivas.
+
 ---
 
 🔗 **¿Te gustaría ver lo que he creado?** Visita mi portafolio y descubre mis proyectos, habilidades y lo que me mueve como desarrollador!
