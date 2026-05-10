@@ -13,6 +13,8 @@ Bienvenido a mi rincón de GitHub ✨
 
 ### 🎯 ¿Por qué contratarme?
 
+No busco un empleo, busco un desafío donde mi capacidad de ejecución sea vuestra ventaja competitiva.
+
 * **Visión de Producto:** No solo escribo código; transformo ideas complejas en herramientas funcionales y escalables, como lo demostré con el ecosistema de **CoPiloto**.
 * **Desarrollo Multiplataforma Eficiente:** Gracias a mi dominio de **React y React Native**, puedo unificar la experiencia de usuario en Web y Mobile, optimizando tiempos de desarrollo.
 * **Código Limpio y Mantenible:** Mi enfoque en arquitecturas modernas asegura que el software sea fácil de escalar y mantener a largo plazo, reduciendo la deuda técnica.
