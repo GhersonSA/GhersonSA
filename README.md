@@ -22,6 +22,7 @@ No busco un empleo, busco un desafío donde mi capacidad de ejecución sea vuest
 * Reducción del **40% en el Time To Market (TTM)** mediante arquitecturas Web/Mobile compartidas.
 * Performance de **100/100 en Core Web Vitals**, disparando la tasa de conversión un **25%.**
 * Fiabilidad **99.9% de uptime** mediante arquitectura hexagonal e idempotencia.
+* Digitalización de procesos con una mejora operativa medible del **30%.**
 
 
 ---
