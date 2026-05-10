@@ -11,7 +11,7 @@ Bienvenido a mi rincón de GitHub ✨
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,nodejs,nestjs,express,postgres,mysql,docker,mongodb,git,github,gitlab)](https://skillicons.dev)
 
-### 🎯 ¿Por qué contratarme?
+### 🎯 ¿Por qué deberías contratarme?
 
 No busco un empleo, busco un desafío donde mi capacidad de ejecución sea vuestra ventaja competitiva. Mi valor diferencial es la soberanía técnica absoluta: soy un ingeniero 'end-to-end' real con vocación pura, que domina desde la psicología del usuario hasta arquitecturas de sistemas de alto tráfico. Mi nivel de exigencia es total y aporto liderazgo natural que sabe cuándo tomar el mando y cuándo apoyar al equipo para garantizar resultados de impacto real mucho antes de lo previsto.
 
