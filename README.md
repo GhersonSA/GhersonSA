@@ -15,12 +15,13 @@ Bienvenido a mi rincón de GitHub ✨
 
 No busco un empleo, busco un desafío donde mi capacidad de ejecución sea vuestra ventaja competitiva. Mi valor diferencial es la soberanía técnica absoluta: soy un ingeniero 'end-to-end' real con vocación pura, que domina desde la psicología del usuario hasta arquitecturas de sistemas de alto tráfico. Mi nivel de exigencia es total y aporto liderazgo natural que sabe cuándo tomar el mando y cuándo apoyar al equipo para garantizar resultados de impacto real mucho antes de lo previsto.
 
+### 🏆 Hitos y Resultados:
+
 * **Visión de Producto:** No solo escribo código; transformo ideas complejas en herramientas funcionales y escalables, como lo demostré con el ecosistema de **CoPiloto**.
 * **Desarrollo Multiplataforma Eficiente:** Gracias a mi dominio de **React y React Native**, puedo unificar la experiencia de usuario en Web y Mobile, optimizando tiempos de desarrollo.
 * **Código Limpio y Mantenible:** Mi enfoque en arquitecturas modernas asegura que el software sea fácil de escalar y mantener a largo plazo, reduciendo la deuda técnica.
 * **Atención al Detalle (UI/UX):** Implemento diseños de alta fidelidad con una precisión técnica que garantiza experiencias digitales fluidas y atractivas.
 
-### 🏆 Hitos y Resultados:
 
 ---
 
