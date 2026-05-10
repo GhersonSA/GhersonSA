@@ -19,6 +19,7 @@ No busco un empleo, busco un desafío donde mi capacidad de ejecución sea vuest
 
 * Escalabilidad y gestión de picos de **26k usuarios/mes** con latencia mínima y alta concurrencia..
 * Gestión de un SaaS con **+20 usuarios activos** que resuelve problemas reales de movilidad.
+* Reducción del **40% en el Time To Market (TTM)** mediante arquitecturas Web/Mobile compartidas.
 * **Código Limpio y Mantenible:** Mi enfoque en arquitecturas modernas asegura que el software sea fácil de escalar y mantener a largo plazo, reduciendo la deuda técnica.
 * **Atención al Detalle (UI/UX):** Implemento diseños de alta fidelidad con una precisión técnica que garantiza experiencias digitales fluidas y atractivas.
 
