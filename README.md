@@ -13,7 +13,7 @@ Bienvenido a mi rincón de GitHub ✨
 
 ### 🎯 ¿Por qué contratarme?
 
-No busco un empleo, busco un desafío donde mi capacidad de ejecución sea vuestra ventaja competitiva. Mi valor diferencial es la soberanía técnica absoluta: soy un ingeniero 'end-to-end' real con vocación pura, que domina desde la psicología del usuario hasta arquitecturas de sistemas de alto tráfico.
+No busco un empleo, busco un desafío donde mi capacidad de ejecución sea vuestra ventaja competitiva. Mi valor diferencial es la soberanía técnica absoluta: soy un ingeniero 'end-to-end' real con vocación pura, que domina desde la psicología del usuario hasta arquitecturas de sistemas de alto tráfico. Mi nivel de exigencia es total y aporto liderazgo natural que sabe cuándo tomar el mando y cuándo apoyar al equipo para garantizar resultados de impacto real mucho antes de lo previsto.
 
 * **Visión de Producto:** No solo escribo código; transformo ideas complejas en herramientas funcionales y escalables, como lo demostré con el ecosistema de **CoPiloto**.
 * **Desarrollo Multiplataforma Eficiente:** Gracias a mi dominio de **React y React Native**, puedo unificar la experiencia de usuario en Web y Mobile, optimizando tiempos de desarrollo.
