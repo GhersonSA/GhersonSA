@@ -18,7 +18,7 @@ No busco un empleo, busco un desafío donde mi capacidad de ejecución sea vuest
 ### 🏆 Hitos y Resultados:
 
 * Escalabilidad y gestión de picos de **26k usuarios/mes** con latencia mínima y alta concurrencia..
-* **Desarrollo Multiplataforma Eficiente:** Gracias a mi dominio de **React y React Native**, puedo unificar la experiencia de usuario en Web y Mobile, optimizando tiempos de desarrollo.
+* Gestión de un SaaS con **+20 usuarios activos** que resuelve problemas reales de movilidad.
 * **Código Limpio y Mantenible:** Mi enfoque en arquitecturas modernas asegura que el software sea fácil de escalar y mantener a largo plazo, reduciendo la deuda técnica.
 * **Atención al Detalle (UI/UX):** Implemento diseños de alta fidelidad con una precisión técnica que garantiza experiencias digitales fluidas y atractivas.
 
