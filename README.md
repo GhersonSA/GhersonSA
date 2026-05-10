@@ -18,6 +18,8 @@ Bienvenido a mi rincón de GitHub ✨
 * **Código Limpio y Mantenible:** Mi enfoque en arquitecturas modernas asegura que el software sea fácil de escalar y mantener a largo plazo, reduciendo la deuda técnica.
 * **Atención al Detalle (UI/UX):** Implemento diseños de alta fidelidad con una precisión técnica que garantiza experiencias digitales fluidas y atractivas.
 
+### 🏆 Hitos y Resultados:
+
 ---
 
 🔗 **¿Te gustaría ver lo que he creado?** Visita mi portafolio y descubre mis proyectos, habilidades y lo que me mueve como desarrollador!
