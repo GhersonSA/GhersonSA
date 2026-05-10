@@ -17,7 +17,7 @@ No busco un empleo, busco un desafío donde mi capacidad de ejecución sea vuest
 
 ### 🏆 Hitos y Resultados:
 
-* **Visión de Producto:** No solo escribo código; transformo ideas complejas en herramientas funcionales y escalables, como lo demostré con el ecosistema de **CoPiloto**.
+* Escalabilidad y gestión de picos de **26k usuarios/mes** con latencia mínima y alta concurrencia..
 * **Desarrollo Multiplataforma Eficiente:** Gracias a mi dominio de **React y React Native**, puedo unificar la experiencia de usuario en Web y Mobile, optimizando tiempos de desarrollo.
 * **Código Limpio y Mantenible:** Mi enfoque en arquitecturas modernas asegura que el software sea fácil de escalar y mantener a largo plazo, reduciendo la deuda técnica.
 * **Atención al Detalle (UI/UX):** Implemento diseños de alta fidelidad con una precisión técnica que garantiza experiencias digitales fluidas y atractivas.
