@@ -7,7 +7,7 @@ Bienvenido a mi rincón de GitHub ✨
 
 ---
 
-### 🚀 Mi stack principal:
+### 🚀 Mi stack principal
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,sass,nodejs,nestjs,express,postgres,mysql,docker,mongodb,git,github,gitlab)](https://skillicons.dev)
 
@@ -27,7 +27,6 @@ Mi nivel de exigencia es total y aporto liderazgo natural que sabe cuándo tomar
 * Performance de **100/100 en Core Web Vitals**, disparando la tasa de conversión un **25%.**
 * Fiabilidad **99.9% de uptime** mediante arquitectura hexagonal e idempotencia.
 * Digitalización de procesos con una mejora operativa medible del **30%.**
-
 
 ---
 
