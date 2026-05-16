@@ -19,7 +19,7 @@ Mi valor diferencial es la soberanía técnica absoluta: soy un ingeniero 'end-t
 
 Mi nivel de exigencia es total y aporto liderazgo natural que sabe cuándo tomar el mando y cuándo apoyar al equipo para garantizar resultados de impacto real mucho antes de lo previsto.
 
-### 🏆 Hitos y Resultados:
+### 🏆 LOGROS DESTACADOS:
 
 * Escalabilidad y gestión de picos de **26k usuarios/mes** con latencia mínima y alta concurrencia..
 * Gestión de un SaaS con **+20 usuarios activos** que resuelve problemas reales de movilidad.
