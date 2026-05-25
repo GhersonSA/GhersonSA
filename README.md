@@ -21,7 +21,7 @@ Mi nivel de exigencia es total y aporto liderazgo natural que sabe cuándo tomar
 
 ### 🏆 LOGROS DESTACADOS:
 
-* Escalabilidad y gestión de picos de **26k usuarios/mes** con latencia mínima y alta concurrencia..
+* Escalabilidad y gestión de picos de **40k usuarios/mes** con latencia mínima y alta concurrencia..
 * Gestión de un SaaS con **+20 usuarios activos** que resuelve problemas reales de movilidad.
 * Reducción del **40% en el Time To Market (TTM)** mediante arquitecturas Web/Mobile compartidas.
 * Performance de **100/100 en Core Web Vitals**, disparando la tasa de conversión un **25%.**
